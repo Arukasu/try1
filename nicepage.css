@@ -34969,6 +34969,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
+  width: 120px;
+  height: 40px;
+  margin: 20px auto 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
